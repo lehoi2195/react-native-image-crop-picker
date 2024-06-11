@@ -4,6 +4,7 @@
 
 <img src="svg.svg" width="50%" height="50%" />
 
+** add feat - Compress Video on Android/ios**
 iOS/Android image picker with support for camera, video, configurable compression, multiple images and cropping
 
 ## Result
